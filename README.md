@@ -8,8 +8,6 @@
 [![License](https://img.shields.io/github/license/你的用户名/unity-magic-string-eliminator)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/你的用户名/unity-magic-string-eliminator)](https://github.com/你的用户名/unity-magic-string-eliminator/stargazers)
 
-[English](./README_EN.md) | 简体中文
-
 </div>
 
 ---
