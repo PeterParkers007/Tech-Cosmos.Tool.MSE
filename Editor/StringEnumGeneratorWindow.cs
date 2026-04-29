@@ -718,7 +718,15 @@ namespace TechCosmos.MSE.Editor
                 }
                 else
                 {
-                    selectedEnum = enumInfo;
+                    // 点击同一个枚举时切换选中状态（展开/收起）
+                    if (selectedEnum == enumInfo)
+                    {
+                        selectedEnum = null; // 取消选中，收起详情
+                    }
+                    else
+                    {
+                        selectedEnum = enumInfo; // 选中并展开详情
+                    }
                 }
             }
             GUI.backgroundColor = Color.white;
