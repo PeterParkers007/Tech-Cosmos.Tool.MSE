@@ -1,0 +1,29 @@
+{
+  "name": "com.magicstringeliminator",
+  "version": "1.0.0",
+  "displayName": "Magic String Eliminator",
+  "description": "? 消灭Unity魔法字符串的可视化Editor工具。\n\n通过可视化界面生成强类型的字符串枚举，将运行时的字符串拼写错误提前到编译时发现。\n\n? 核心功能：\n? 可视化编辑界面，支持单个添加和批量表格编辑\n? 一键键值同步模式（Key = Value）\n? 按命名空间分类管理已生成的枚举\n? CSV导入导出，批量迁移数据\n? 编辑已生成的枚举文件\n? 设置自动持久化，关闭后保留偏好\n\n? 告别魔法字符串，拥抱编译时类型安全！",
+  "unity": "2022.4",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/PeterParkers007/unity-magic-string-eliminator",
+  "changelogUrl": "https://github.com/PeterParkers007/unity-magic-string-eliminator",
+  "licensesUrl": "https://github.com/PeterParkers007/unity-magic-string-eliminator",
+  "keywords": [
+    "magic-string",
+    "string-enum",
+    "code-generation",
+    "editor-tool",
+    "type-safety",
+    "string-constants"
+  ],
+  "author": {
+    "name": "JinMing Zhang",
+    "email": "3427463164@qq.com",
+    "url": "https://github.com/PeterParkers007"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PeterParkers007/Tech-Cosmos.Tool.MSE.git"
+  },
+  "category": "Tools"
+}
