@@ -68,7 +68,7 @@ SceneManager.LoadScene(SceneNames.MainMenu.GetString());
 2. 点击左上角 `+` → `Add package from git URL...`
 3. 输入仓库地址：
    ```
-   https://github.com/你的用户名/unity-magic-string-eliminator.git
+   https://github.com/PeterParkers007/Tech-Cosmos.Tool.MSE.git
    ```
 4. 点击 `Add` 等待导入完成
 
